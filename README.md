@@ -58,3 +58,4 @@ If you want to learn more about building native executables, please consult <htt
 - Azure Functions ([guide](https://quarkus.io/guides/azure-functions)): Write Microsoft Azure functions
 
 ## Provided Code
+teste
